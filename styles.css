@@ -1,6 +1,17 @@
 p{
-    color:red;
+front-family: verdana;
+color: #4b4b4b;
+front-size: 20PX
 }
 h1{
     color:darkviolet;
+}
+
+.paragrafo-final{
+color:#000000
+}
+
+#autor{
+font-style: italic;
+font-size: 15px;
 }
